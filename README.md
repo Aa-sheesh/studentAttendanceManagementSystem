@@ -1,9 +1,16 @@
-<!-- 
-** Admin Login Details **
-* Email   : admin@mail.com
-* Password: Password@123 -->
+# Setup
+1. Open XAMPP and start MYSQL and Apache Server.<br/>
+2. Upload the database file to MYSQL Admin. <br/>
+3. Put the project file in C:/xampp/htdocs. <br/>
+4. Run localhost/<projectname> on web browser. <br/>
 
-<!-- **Teacher Login Details**
+# Credentials to use the project
+ 
+**Admin Login Details**
+* Email   : admin@mail.com <br/>
+* Password: Password@123 <br/>
 
-* Email   : teacher@mail.com
-* Password: pass123 -->
+**Teacher Login Details**
+
+* Email   : teacher@mail.com<br/>
+* Password: pass123<br/>
